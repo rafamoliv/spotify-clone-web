@@ -1,1 +1,1 @@
-# spotify-clone-web
+![Spotify clone web](../imagens/spotify.png)
