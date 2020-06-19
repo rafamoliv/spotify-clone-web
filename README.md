@@ -1,1 +1,1 @@
-![Spotify clone web](../imagens/spotify.png)
+![Spotify clone web](./imagens/spotify.png)
